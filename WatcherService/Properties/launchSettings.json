@@ -3,7 +3,8 @@
     "WatcherService": {
       "commandName": "Project",
       "environmentVariables": {
-        "DOTNET_ENVIRONMENT": "Development"
+        "DOTNET_ENVIRONMENT": "Development",
+        "WATCH_FILE_LOCATION": "C:\\Users\\Peter\\Documents\\watchfolder"
       }
     }
   }

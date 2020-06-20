@@ -19,7 +19,7 @@ namespace WatcherService
         public Worker(ILogger<Worker> logger)
         {
             _logger = logger;
-            _inputFolder = @"C:\Users\Peter\Documents\watchfolder";
+            _inputFolder = Environment.GetEnvironmentVariable("WATCH_FILE_LOCATION");
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)

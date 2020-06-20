@@ -10,3 +10,39 @@
 2020-06-20 00:48:12 [INFO]<6> [WatcherService.Worker] Change type Renamed
 2020-06-20 00:58:41 [INFO]<7> [WatcherService.Worker] Stopping Service
 2020-06-20 00:58:41 [INFO]<7> [WatcherService.Worker] Disposing Service
+2020-06-20 01:29:13 [INFO]<1> [] MY INFO
+2020-06-20 01:29:14 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-20 01:29:14 [INFO]<1> [] ====================================================================
+2020-06-20 01:29:14 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-20 01:29:14 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-20 01:29:17 [INFO]<1> [WatcherService.Worker] Service Starting
+2020-06-20 01:29:17 [INFO]<1> [WatcherService.Worker] Binding Events from Input Folder: C:\Users\Peter\Documents\watchfolder
+2020-06-20 01:30:41 [INFO]<6> [WatcherService.Worker] Change type Changed
+2020-06-20 01:30:41 [INFO]<6> [WatcherService.Worker] File Changed at [C:\Users\Peter\Documents\watchfolder\TestOne.txt]
+2020-06-20 01:30:41 [INFO]<6> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-20 01:30:41 [INFO]<5> [WatcherService.Worker] Change type Changed
+2020-06-20 01:30:41 [INFO]<5> [WatcherService.Worker] File Changed at [C:\Users\Peter\Documents\watchfolder\TestOne.txt]
+2020-06-20 01:30:41 [INFO]<5> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-20 01:37:16 [INFO]<7> [WatcherService.Worker] Stopping Service
+2020-06-20 01:37:16 [INFO]<7> [WatcherService.Worker] Disposing Service
+2020-06-20 01:58:38 [INFO]<1> [] MY INFO
+2020-06-20 01:58:39 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-20 01:58:39 [INFO]<1> [] ====================================================================
+2020-06-20 01:58:39 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-20 01:58:39 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-20 01:58:41 [INFO]<1> [WatcherService.Worker] Service Starting
+2020-06-20 01:58:41 [INFO]<1> [WatcherService.Worker] Binding Events from Input Folder: C:\Users\Peter\Documents\watchfolder
+2020-06-20 02:00:06 [INFO]<7> [WatcherService.Worker] Change type Changed
+2020-06-20 02:00:06 [INFO]<7> [WatcherService.Worker] File Changed at [C:\Users\Peter\Documents\watchfolder\TestOne.txt]
+2020-06-20 02:00:06 [INFO]<7> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-20 02:00:06 [INFO]<5> [WatcherService.Worker] Change type Changed
+2020-06-20 02:00:06 [INFO]<5> [WatcherService.Worker] File Changed at [C:\Users\Peter\Documents\watchfolder\TestOne.txt]
+2020-06-20 02:00:06 [INFO]<5> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-20 02:00:12 [INFO]<7> [WatcherService.Worker] Change type Changed
+2020-06-20 02:00:12 [INFO]<7> [WatcherService.Worker] File Changed at [C:\Users\Peter\Documents\watchfolder\TestOne.txt]
+2020-06-20 02:00:12 [INFO]<7> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-20 02:00:12 [INFO]<5> [WatcherService.Worker] Change type Changed
+2020-06-20 02:00:12 [INFO]<5> [WatcherService.Worker] File Changed at [C:\Users\Peter\Documents\watchfolder\TestOne.txt]
+2020-06-20 02:00:12 [INFO]<5> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-20 02:01:38 [INFO]<8> [WatcherService.Worker] Stopping Service
+2020-06-20 02:01:38 [INFO]<8> [WatcherService.Worker] Disposing Service
