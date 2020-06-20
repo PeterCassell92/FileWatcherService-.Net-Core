@@ -1,0 +1,12 @@
+2020-06-20 00:39:23 [INFO]<1> [] MY INFO
+2020-06-20 00:39:26 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-20 00:39:26 [INFO]<1> [] ====================================================================
+2020-06-20 00:39:26 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-20 00:39:26 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-20 00:39:38 [INFO]<1> [WatcherService.Worker] Service Starting
+2020-06-20 00:39:38 [INFO]<1> [WatcherService.Worker] Binding Events from Input Folder: C:\Users\Peter\Documents\watchfolder
+2020-06-20 00:45:55 [INFO]<4> [WatcherService.Worker] Change type Changed
+2020-06-20 00:45:55 [INFO]<6> [WatcherService.Worker] Change type Changed
+2020-06-20 00:48:12 [INFO]<6> [WatcherService.Worker] Change type Renamed
+2020-06-20 00:58:41 [INFO]<7> [WatcherService.Worker] Stopping Service
+2020-06-20 00:58:41 [INFO]<7> [WatcherService.Worker] Disposing Service

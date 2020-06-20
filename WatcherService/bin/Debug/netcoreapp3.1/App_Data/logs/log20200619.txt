@@ -1,0 +1,88 @@
+2020-06-19 01:54:13 [INFO]<1> [] MY INFO
+2020-06-19 01:54:14 [INFO]<1> [] ====================================================================
+2020-06-19 01:54:14 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 01:54:14 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 01:55:01 [INFO]<1> [] ====================================================================
+
+2020-06-19 02:13:17 [INFO]<1> [] MY INFO
+2020-06-19 02:13:19 [INFO]<1> [] ====================================================================
+2020-06-19 02:13:19 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 02:13:19 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 02:15:07 [INFO]<1> [] ====================================================================
+
+2020-06-19 02:15:45 [INFO]<1> [] MY INFO
+2020-06-19 02:15:45 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-19 02:15:45 [INFO]<1> [] ====================================================================
+2020-06-19 02:15:45 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 02:15:45 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 02:26:56 [INFO]<1> [] MY INFO
+2020-06-19 02:26:56 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-19 02:26:56 [INFO]<1> [] ====================================================================
+2020-06-19 02:26:56 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 02:26:56 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 02:26:57 [INFO]<1> [WatcherService.Worker] Worker running at: "2020-06-19T02:26:57.4332610+01:00"
+2020-06-19 02:26:58 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:26:58.4693203+01:00"
+2020-06-19 02:26:59 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:26:59.4773779+01:00"
+2020-06-19 02:27:00 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:00.4914359+01:00"
+2020-06-19 02:27:01 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:01.5054939+01:00"
+2020-06-19 02:27:02 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:02.5195519+01:00"
+2020-06-19 02:27:03 [INFO]<7> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:03.5366101+01:00"
+2020-06-19 02:27:04 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:04.5476679+01:00"
+2020-06-19 02:27:05 [INFO]<7> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:05.5617259+01:00"
+2020-06-19 02:27:06 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:06.5747839+01:00"
+2020-06-19 02:27:07 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:07.5888419+01:00"
+2020-06-19 02:27:08 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:08.6028999+01:00"
+2020-06-19 02:27:09 [INFO]<7> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:09.6169579+01:00"
+2020-06-19 02:27:10 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:10.6310159+01:00"
+2020-06-19 02:27:11 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:11.6450739+01:00"
+2020-06-19 02:27:14 [INFO]<7> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:14.7962541+01:00"
+2020-06-19 02:27:15 [INFO]<5> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:15.8143123+01:00"
+2020-06-19 02:27:16 [INFO]<5> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:16.8253702+01:00"
+2020-06-19 02:27:17 [INFO]<7> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:17.8384281+01:00"
+2020-06-19 02:27:18 [INFO]<7> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:18.8534862+01:00"
+2020-06-19 02:27:19 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:19.8665441+01:00"
+2020-06-19 02:27:20 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:20.8816022+01:00"
+2020-06-19 02:27:21 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:21.8946601+01:00"
+2020-06-19 02:27:22 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:22.9097182+01:00"
+2020-06-19 02:27:25 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:25.4518636+01:00"
+2020-06-19 02:27:26 [INFO]<4> [WatcherService.Worker] Worker running at: "2020-06-19T02:27:26.4649215+01:00"
+2020-06-19 02:39:05 [INFO]<1> [] MY INFO
+2020-06-19 02:39:05 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-19 02:39:05 [INFO]<1> [] ====================================================================
+2020-06-19 02:39:05 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 02:39:05 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 02:39:06 [INFO]<1> [WatcherService.Worker] Service Starting
+2020-06-19 02:39:06 [WARN]<1> [WatcherService.Worker] Please make sure the InputFolder [C:\temp] exists, then restart the service.
+2020-06-19 02:39:17 [INFO]<4> [WatcherService.Worker] Stopping Service
+2020-06-19 02:43:47 [INFO]<1> [] MY INFO
+2020-06-19 02:43:47 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-19 02:43:47 [INFO]<1> [] ====================================================================
+2020-06-19 02:43:47 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 02:43:47 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 02:43:48 [INFO]<1> [WatcherService.Worker] Service Starting
+2020-06-19 02:43:48 [WARN]<1> [WatcherService.Worker] Please make sure the InputFolder [C:\Users\Peter\Documents\watchfolder:\temp] exists, then restart the service.
+2020-06-19 02:44:06 [INFO]<4> [WatcherService.Worker] Stopping Service
+2020-06-19 02:44:45 [INFO]<1> [] MY INFO
+2020-06-19 02:44:45 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-19 02:44:45 [INFO]<1> [] ====================================================================
+2020-06-19 02:44:45 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 02:44:45 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 02:44:45 [INFO]<1> [WatcherService.Worker] Service Starting
+2020-06-19 02:44:45 [INFO]<1> [WatcherService.Worker] Binding Events from Input Folder: C:\Users\Peter\Documents\watchfolder
+2020-06-19 02:45:06 [INFO]<6> [WatcherService.Worker] InBound Change Event Triggered by [C:\Users\Peter\Documents\watchfolder\New Text Document.txt]
+2020-06-19 02:45:06 [INFO]<6> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-19 02:55:03 [INFO]<8> [WatcherService.Worker] Stopping Service
+2020-06-19 02:55:03 [INFO]<8> [WatcherService.Worker] Disposing Service
+2020-06-19 02:55:38 [INFO]<1> [] MY INFO
+2020-06-19 02:55:38 [WARN]<1> [] RESTAAAAAAAAAAAAAAAAAAAAAAAAAA
+2020-06-19 02:55:38 [INFO]<1> [] ====================================================================
+2020-06-19 02:55:38 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2020-06-19 02:55:38 [INFO]<1> [] Application Directory: C:\Users\Peter\source\repos\WatcherService\WatcherService\bin\Debug\netcoreapp3.1\
+2020-06-19 02:55:38 [INFO]<1> [WatcherService.Worker] Service Starting
+2020-06-19 02:55:38 [INFO]<1> [WatcherService.Worker] Binding Events from Input Folder: C:\Users\Peter\Documents\watchfolder
+2020-06-19 02:55:52 [INFO]<6> [WatcherService.Worker] InBound Change Event Triggered by [C:\Users\Peter\Documents\watchfolder\New Text Document.txt]
+2020-06-19 02:55:52 [INFO]<6> [WatcherService.Worker] Done with Inbound Change Event
+2020-06-19 02:56:16 [INFO]<9> [WatcherService.Worker] Stopping Service
+2020-06-19 02:56:16 [INFO]<9> [WatcherService.Worker] Disposing Service
+2020-06-19 02:56:16 [INFO]<1> [] ====================================================================
+

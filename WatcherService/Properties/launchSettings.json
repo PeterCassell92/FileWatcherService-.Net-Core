@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WatcherService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
